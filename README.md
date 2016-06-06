@@ -16,8 +16,8 @@ This has been tested for mp4 files only. This can be used to stream live from th
 
 **A few bonus interactive user controls :-**
 
-1. Play and Pause functionality using Unix signal handling.
-2. A toggle facility to switch between a set of run-time video filters (filters - implemented using OpenCV)
+1. Play and Pause functionality using Unix signal handling. [Press Ctrl+C during video streaming]
+2. A toggle facility to switch between a set of run-time video filters (filters - implemented using OpenCV) [Press Ctrl + \ ]
 
 Please refer the design document for more information.
 
