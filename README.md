@@ -5,10 +5,10 @@
 **Client** reequests the file from the server.
 
 ###Server
-Format : ./serv <Port_Number>
+Format : ./serv \<Port_Number\>
 
 ###Client
-Format : ./cli <IP_of_Server> <Port_of_Server> <name_of_video_file_in_server_system>
+Format : ./cli \<IP_of_Server\> \<Port_of_Server\> \<name_of_video_file_in_server_system\>
 
 OpenCV is required for proper compilation and execution.
 
