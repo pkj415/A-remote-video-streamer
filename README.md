@@ -1,7 +1,7 @@
 # A-remote-video-streamer
 ##A simple program in C to stream video from one node to another on the same network using the UDP protocol
 
-**Server** has the video file locally. 
+**Server** has the video file locally. <br />
 **Client** reequests the file from the server.
 
 ###Server
